@@ -4,7 +4,9 @@
   "description": "iOS Plugin for sounds and haptics",
   "cordova": {
     "id": "cordova-plugin-iOSHaptics",
-    "platforms": []
+    "platforms": [
+        "ios"
+    ]
   },
   "repository": {
     "type": "git",
