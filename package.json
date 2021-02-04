@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JastySaran/CallHealth_Haptics_Plugin.git"
+    "url": "https://github.com/JastySaran/CallHealth_Haptics_Plugin.git"
   },
   "keywords": [
     "ecosystem:cordova"
