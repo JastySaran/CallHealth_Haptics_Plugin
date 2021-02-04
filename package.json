@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-iOSHaptics",
+  "version": "0.0.1",
+  "description": "iOS Plugin for sounds and haptics",
+  "cordova": {
+    "id": "cordova-plugin-iOSHaptics",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JastySaran/CallHealth_Haptics_Plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "JastySaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JastySaran/CallHealth_Haptics_Plugin/issues"
+  },
+  "homepage": "https://github.com/JastySaran/CallHealth_Haptics_Plugin#readme"
+}
